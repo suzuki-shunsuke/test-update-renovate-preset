@@ -2,6 +2,7 @@
   "extends": [
     "github>suzuki-shunsuke/renovate-config:nolimit#2.5.0",
   ],
+  "dependencyDashboard": true,
   "customManagers": [
     {
        "customType": "regex",
